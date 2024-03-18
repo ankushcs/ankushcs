@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ankush-singh-931b6483/" target="_blank"> Ankush </a></h1>
 
 - 🌱 Learning By Doing 🤖
+  
+- 💻 2.5+ years of experience 👨🏻‍💻
 
-- 💬 Ask me about **Frontend Development,HTML, CSS, JS, BootStrap, React JS, DBMS, Rest APIs, AXIOS**
+- 💬 Ask me about **Frontend Development,HTML, CSS, JS, BootStrap, React JS, Rest APIs, AXIOS, React Testing, JEST, Tailwind CSS**
 
 - ✔ Currently Working as a **Frontend Developer (React JS)**
 
