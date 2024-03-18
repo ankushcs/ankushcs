@@ -6,8 +6,6 @@
 
 - ✔ Currently Working as a **Frontend Developer (React JS)**
 
-- 😄 Pronouns: He/His
-
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/ankush-singh-931b6483/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
