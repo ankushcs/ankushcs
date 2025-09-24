@@ -2,7 +2,7 @@
 
 - 🌱 Learning By Doing 🤖
   
-- 💻 2.5+ years of experience 👨🏻‍💻
+- 💻 4+ years of experience 👨🏻‍💻
 
 - 💬 Ask me about **Frontend Development,HTML, CSS, JS, BootStrap, React JS, Rest APIs, AXIOS, React Testing, JEST, Tailwind CSS**
 
